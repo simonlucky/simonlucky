@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://blacknetwork.pythonanywhere.com/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonlucky&theme=dark" />
+  <img card_width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=simonlucky&theme=dark" />
 </a>
 <br/>
 <a href="https://twitter.com/simonlucky_o">
