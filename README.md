@@ -29,6 +29,4 @@ Here are some ideas to get you started:
   <img card_width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=simonlucky&theme=dark" />
 </a>
 <br/>
-<a href="https://twitter.com/simonlucky_o">
-  <img src="https://img.shields.io/twitter/follow/simonlucky_o?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
+
