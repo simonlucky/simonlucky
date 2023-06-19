@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is simon lucky, And I'm a security researcher. In the realm where AI and security intertwine, I venture forth, unraveling digital enigmas that safeguard our digital fortresses 👋
 
 <!--
 **simonlucky/simonlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
