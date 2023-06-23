@@ -1,5 +1,5 @@
-### Hi there, I'm a Security Researcher interested in Python, C/C++, Rust, Linux/android (kernel) and embedded devices 👋
-
+### Hi there, 👋
+I'm a security researcher interested in Python, C/C++, Rust, Linux/android (kernel) and embedded devices
 <!--
 **simonlucky/simonlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
