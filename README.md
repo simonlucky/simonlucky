@@ -1,5 +1,5 @@
 ### Hi there, 👋
-I'm an AI and security researcher interested in python, c/c++, rust, go, linux/android (kernel) and embedded devices
+I'm a security researcher interested in python, c/c++, rust, go, linux/android (kernel) and embedded devices
 <!--
 **simonlucky/simonlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
