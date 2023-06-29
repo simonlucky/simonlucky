@@ -1,5 +1,5 @@
 ### Hi there, 👋
-I'm an AI and security researcher, Interested in Data Science and Security Researcher.
+I'm an AI and security researcher, Interested in data science and security researcher.
 <!--
 **simonlucky/simonlucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
